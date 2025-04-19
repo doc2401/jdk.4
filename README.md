@@ -1,0 +1,4 @@
+j2sdk-1_4_2-doc.zip
+
+sha256sum: 5d7ef04d1a9fa721f03eca7751f8eaaebd0de2d629ff90dc1a0d5628bc64ba58
+
